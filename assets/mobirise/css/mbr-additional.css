@@ -1126,7 +1126,7 @@ body {
 .cid-qOUSH6AVcc {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/images-1-275x183.jpg");
+  background-image: url("../../../assets/images/book-quiz-1200x800.jpg");
 }
 .cid-qOUSH6AVcc .card-title {
   letter-spacing: 0.03em;
@@ -1193,6 +1193,29 @@ body {
 .cid-qOUSH6AVcc .card-title,
 .cid-qOUSH6AVcc .card-underline {
   color: #ffffff;
+}
+.cid-qOV1C8DyCw {
+  background-image: url("../../../assets/images/1-ccrdyfjju4egsb-8-1vz-g-2000x1499.jpg");
+}
+.cid-qOV1C8DyCw .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qOV1C8DyCw .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qOV1C8DyCw .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-qOV1C8DyCw .mbr-text,
+.cid-qOV1C8DyCw .mbr-section-btn {
+  text-align: left;
+}
+.cid-qOV1C8DyCw H1 {
+  text-align: left;
 }
 .cid-qOUWmDb91Q {
   padding-top: 45px;
